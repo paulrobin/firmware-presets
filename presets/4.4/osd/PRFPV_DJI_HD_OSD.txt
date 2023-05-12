@@ -1,0 +1,34 @@
+#$ TITLE: PRFPV - DJI HD OSD for WTFOS
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: DJI, HD, HDOSD
+#$ AUTHOR: PRFPV - Paul Robinson
+
+set osd_warn_bitmask = 24575
+set osd_vbat_pos = 2746
+set osd_link_quality_pos = 3714
+set osd_tim_1_pos = 643
+set osd_tim_2_pos = 3746
+set osd_flymode_pos = 2721
+set osd_vtx_channel_pos = 16618
+set osd_ah_pos = 2269
+set osd_current_pos = 2705
+set osd_craft_name_pos = 2049
+set osd_gps_speed_pos = 2068
+set osd_gps_sats_pos = 2062
+set osd_home_dir_pos = 2109
+set osd_home_dist_pos = 2075
+set osd_flight_dist_pos = 3083
+set osd_altitude_pos = 3074
+set osd_warnings_pos = 2648
+set osd_avg_cell_voltage_pos = 2714
+set osd_battery_usage_pos = 33002
+set osd_disarmed_pos = 2617
+set osd_sys_bitrate_pos = 266
+set osd_sys_delay_pos = 298
+set osd_sys_distance_pos = 330
+set osd_sys_vtx_dvr_pos = 362
+set osd_displayport_device = MSP
+set osd_canvas_width = 60
+set osd_canvas_height = 22
