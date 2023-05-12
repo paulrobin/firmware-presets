@@ -1,0 +1,16 @@
+#$ TITLE: PRFPV Modes for 4 switches and 2 buttons on Radiomaster Zorro
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: mode, modes, adjustments, aux, switch
+#$ AUTHOR: PRFPV
+#$ DESCRIPTION: PRFPV Modes for 4 switches and 2 buttons on Radiomaster Zorro
+
+# aux switch settings
+
+aux 0 0 0 1600 2100 0 0
+aux 1 1 2 1600 2100 0 0
+aux 2 27 3 1600 2100 0 0
+aux 3 13 4 1600 2100 0 0
+aux 4 35 1 1600 2100 0 0
+aux 5 36 5 1600 2100 0 0
